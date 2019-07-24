@@ -7,6 +7,7 @@ import (
 	"errors"
 	"io"
 	"reflect"
+	"aab"
 )
 
 // NewFromReader returns a *Json by decoding from an io.Reader
